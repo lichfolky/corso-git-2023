@@ -242,13 +242,34 @@ HEAD
 PULL
 PUSH
 
-
-
 https://github.com/sindresorhus/awesome
 https://github.com/topics/js13k
 
+
+
+### Robe che mi piacerebbe aggiungere la prossima volta
+
 `git config --global core.editor "code --wait"`
+
 
 ### Forzare sovrascrittura branch
 git push origin dev --force
 
+
+
+
+
+Branch protection rules
+
+
+git commit --allow-empty -m "Empty-Commit"
+git rebase --root
+
+https://www.reddit.com/r/git/
+
+
+git pull --rebase origin main
+
+
+
+https://girliemac.com/blog/2017/12/26/git-purr/
