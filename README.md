@@ -2,6 +2,12 @@
 
 * **Contatti:** mattia.folcarelli@gmail.com  
 
+* [**Introduzione Git e Github**](2023-03-22.md)
+* [**Markdown**](2023-03-23.md)
+* [**Merge, history e remote**](2023-03-27.md)
+* [**Strumenti di collaborazione e branching models**](2023-03-29.md)
+* [**Github Actions e Deploy con Angular**](2023-03-30.md)
+
 ## Partecipanti 2023
 
 - [Ivan Toselli]( https://github.com/Ivztoz8)
